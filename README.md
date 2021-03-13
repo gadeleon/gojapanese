@@ -1,2 +1,2 @@
 # gojapanese
-playing with go via japanese
+Playing with a basic web app idea with Japanese studies
