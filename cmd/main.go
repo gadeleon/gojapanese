@@ -39,7 +39,10 @@ func main() {
 //TODO: Test question function
 //TODO: Make Simple Webserver
 //TODO: Have WebServer Handle Question Function/Eval/Etc
-
+//TODO: Get words from Wanikani
+//TODO: Write Grammar Engine
+//TODO: Madlib Generator
+//TODO: Picture Engine (Google Image Search??? Safe Searh...On? I'm Feeling Lucky?)
 
 
 
