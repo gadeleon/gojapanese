@@ -40,10 +40,10 @@ func main() {
 //TODO: Make Simple Webserver
 //TODO: Have WebServer Handle Question Function/Eval/Etc
 //TODO: Get words from Wanikani
+//TODO: Ask webapp to give me words to use
 //TODO: Write Grammar Engine
 //TODO: Madlib Generator
 //TODO: Picture Engine (Google Image Search??? Safe Searh...On? I'm Feeling Lucky?)
-
 
 
 }

@@ -16,4 +16,3 @@ func (N *Noun) IsNegative(s string) bool {
 	return s == N.Negative()
 }
 
-
